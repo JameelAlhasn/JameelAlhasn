@@ -10,10 +10,11 @@ I'm **Jameel Alhasn**, a 12th-grade student (Advanced Stream) in Ajman, UAE. I a
 ### 🛠 Featured Project
 * **[Data-Structures](https://github.com/JameelAlhasn/Data-Structures):** A comprehensive implementation of core data structures from scratch (Linked Lists, Trees, Stacks, Queues, Graphs, etc.) using C++. This project reflects my deep understanding of memory management, pointer manipulation, and algorithmic efficiency.
 
-### 🏆 Achievements & Hobbies
+### 🏆 Achievements
+* **ICPC Egyptian Teens (2024):** * [61st Place - Qualification Programming Contest](certificates/2025-ICPC%20Egyptian%20Teens%20QPC-Jameel%20Ahmed%20Al-Hasan-PLACE.pdf)
+    * [Honorable Mention - Online Qualification Programming Contest](certificates/2025-ICPC%20Egyptian%20Teens%20OQPC-Jameel%20Ahmed%20Al-Hasan-PLACE%20(1).pdf)
 * **Codeforces:** [Jameel_l](https://codeforces.com/profile/Jameel_l) - Constantly pushing to reach the "Master" rank.
 * **LeetCode:** [Jameel_l](https://leetcode.com/u/jameel_l/)
-* **ECPC:** Proud participant in the Egyptian Collegiate Programming Contest (ECPC).
 * **Chess:** An avid chess player. Chess has sharpened my analytical skills, strategic planning, and ability to make calculated decisions under pressure—skills I directly apply to my coding and problem-solving.
 
 ### 🎯 Goals
@@ -25,8 +26,6 @@ I'm **Jameel Alhasn**, a 12th-grade student (Advanced Stream) in Ajman, UAE. I a
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 *Always ready for new coding challenges and open to technical collaborations.*

@@ -8,7 +8,7 @@ I'm **Jameel Alhasn**, a 12th-grade student (Advanced Stream) in Ajman, UAE. I a
 * **Math:** Deeply interested in applying advanced mathematics to Computer Science, AI, and Physics.
 
 ### 🛠 Projects
-* **[Codenames Web Project](https://github.com/JameelAlhasn/Codenames):** A fully interactive, web-based implementation of the popular board game "Codenames". It features dynamic team management, turn-based logic, and a responsive UI. Built to explore web interactivity and frontend architecture.
+* **[Codenames Web Project](https://github.com/JameelAlhasn/codename-web-project/blob/main/README.md):** A fully interactive, web-based implementation of the popular board game "Codenames". It features dynamic team management, turn-based logic, and a responsive UI. Built to explore web interactivity and frontend architecture.
 * **[Data-Structures](https://github.com/JameelAlhasn/Data-Structures):** A comprehensive implementation of core data structures from scratch (Linked Lists, Trees, Stacks, Queues, Graphs, etc.) using C++. This project reflects my deep understanding of memory management, pointer manipulation, and algorithmic efficiency.
 
 ### 🏆 Achievements

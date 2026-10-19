@@ -16,7 +16,6 @@ I'm **Jameel Alhasn**, a 12th-grade student (Advanced Stream) in Ajman, UAE. I a
     * [Honorable Mention - Online Qualification Programming Contest](certificates/2025-ICPC%20Egyptian%20Teens%20OQPC-Jameel%20Ahmed%20Al-Hasan-PLACE%20(1).pdf)
 * **Codeforces:** [Jameel_l](https://codeforces.com/profile/Jameel_l) - Constantly pushing to reach the "Master" rank.
 * **LeetCode:** [Jameel_l](https://leetcode.com/u/jameel_l/)
-* **Chess:** An avid chess player. Chess has sharpened my analytical skills, strategic planning, and ability to make calculated decisions under pressure—skills I directly apply to my coding and problem-solving.
 
 ### 🎯 Goals
 * **Competitive Programming:** Reach the ICPC World Finals.

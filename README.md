@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-I'm **Jameel Alhasn**, a 12th-grade student (Advanced Stream) in Ajman, UAE. I am a passionate problem solver, a competitive programmer, and a strategic thinker with a deep interest in software architecture and mathematics.
+I'm **Jameel Alhasn**, First-year Computer Science student. I am a passionate problem solver, a competitive programmer, and a strategic thinker with a deep interest in software architecture and mathematics.
 
 ### 🚀 Tech Interests & Skills
 * **Languages:** C++, Python, HTML, CSS, JavaScript.
-* **Core Focus:** Competitive Programming, Data Structures, Algorithms, and Software Development.
-* **Math:** Deeply interested in applying advanced mathematics to Computer Science, AI, and Physics.
+* **Core Focus:** Competitive Programming, Data Structures, Algorithms, and Backend.
+* **Math:** Deeply interested in applying advanced mathematics to Computer Science, AI.
 
 ### 🛠 Projects
 * **[Data-Structures](https://github.com/JameelAlhasn/Data-Structures):** A comprehensive implementation of core data structures from scratch (Linked Lists, Trees, Stacks, Queues, Graphs, etc.) using C++. This project reflects my deep understanding of memory management, pointer manipulation, and algorithmic efficiency.
